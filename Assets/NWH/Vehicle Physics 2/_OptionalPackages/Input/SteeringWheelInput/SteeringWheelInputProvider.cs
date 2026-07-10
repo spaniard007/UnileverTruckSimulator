@@ -399,7 +399,7 @@ namespace NWH.VehiclePhysics2.Input
         public float brakeDeadzone = 0.02f;
         public float clutchDeadzone = 0.02f;
         public float handbrakeDeadzone = 0.02f;
-        public float steeringDeadzone = 0.00f;
+        public float steeringDeadzone = 0.10f;
 
         //Forces
         [SerializeField][Range(0, 100)] private float _lowSpeedFrictionForce;
