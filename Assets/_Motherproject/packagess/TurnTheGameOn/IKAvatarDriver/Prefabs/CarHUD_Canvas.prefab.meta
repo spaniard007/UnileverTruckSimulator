@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad21962829104b34bd52536299655700
+timeCreated: 1486621290
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225963
+  packageName: IK Avatar Driver (2019.x and higher)
+  packageVersion: 1.1.0
+  assetPath: Assets/TurnTheGameOn/IKAvatarDriver/Prefabs/CarHUD_Canvas.prefab
+  uploadId: 509807

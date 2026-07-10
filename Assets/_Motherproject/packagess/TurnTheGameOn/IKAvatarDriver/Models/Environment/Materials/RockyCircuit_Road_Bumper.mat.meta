@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d0c2bff4025a43daa8d024b8f3583d3f
+timeCreated: 1485150431
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225963
+  packageName: IK Avatar Driver (2019.x and higher)
+  packageVersion: 1.1.0
+  assetPath: Assets/TurnTheGameOn/IKAvatarDriver/Models/Environment/Materials/RockyCircuit_Road_Bumper.mat
+  uploadId: 509807

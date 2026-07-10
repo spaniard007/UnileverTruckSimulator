@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: e32cd55b6f51b8c4f98e5097a60cc454
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Back seat
+    100002: back_movebale obj
+    100004: badel_handel
+    100006: bag1
+    100008: bag2
+    100010: BEll
+    100012: BezierCircle
+    100014: Bind_Head
+    100016: Bind_HeadTop_End
+    100018: Bind_Hips
+    100020: Bind_Joint_GRP
+    100022: Bind_LeftArm
+    100024: Bind_LeftFoot
+    100026: Bind_LeftForeArm
+    100028: Bind_LeftHand
+    100030: Bind_LeftHandIndex1
+    100032: Bind_LeftHandIndex2
+    100034: Bind_LeftHandIndex3
+    100036: Bind_LeftHandIndex4
+    100038: Bind_LeftHandMiddle1
+    100040: Bind_LeftHandMiddle2
+    100042: Bind_LeftHandMiddle3
+    100044: Bind_LeftHandMiddle4
+    100046: Bind_LeftHandPinky1
+    100048: Bind_LeftHandPinky2
+    100050: Bind_LeftHandPinky3
+    100052: Bind_LeftHandPinky4
+    100054: Bind_LeftHandRing1
+    100056: Bind_LeftHandRing2
+    100058: Bind_LeftHandRing3
+    100060: Bind_LeftHandRing4
+    100062: Bind_LeftHandThumb1
+    100064: Bind_LeftHandThumb2
+    100066: Bind_LeftHandThumb3
+    100068: Bind_LeftHandThumb4
+    100070: Bind_LeftLeg
+    100072: Bind_LeftShoulder
+    100074: Bind_LeftToe_End
+    100076: Bind_LeftToeBase
+    100078: Bind_LeftUpLeg
+    100080: Bind_Neck
+    100082: Bind_RightArm
+    100084: Bind_RightFoot
+    100086: Bind_RightForeArm
+    100088: Bind_RightHand
+    100090: Bind_RightHandIndex1
+    100092: Bind_RightHandIndex2
+    100094: Bind_RightHandIndex3
+    100096: Bind_RightHandIndex4
+    100098: Bind_RightHandMiddle1
+    100100: Bind_RightHandMiddle2
+    100102: Bind_RightHandMiddle3
+    100104: Bind_RightHandMiddle4
+    100106: Bind_RightHandPinky1
+    100108: Bind_RightHandPinky2
+    100110: Bind_RightHandPinky3
+    100112: Bind_RightHandPinky4
+    100114: Bind_RightHandRing1
+    100116: Bind_RightHandRing2
+    100118: Bind_RightHandRing3
+    100120: Bind_RightHandRing4
+    100122: Bind_RightHandThumb1
+    100124: Bind_RightHandThumb2
+    100126: Bind_RightHandThumb3
+    100128: Bind_RightHandThumb4
+    100130: Bind_RightLeg
+    100132: Bind_RightShoulder
+    100134: Bind_RightToe_End
+    100136: Bind_RightToeBase
+    100138: Bind_RightUpLeg
+    100140: Bind_Spine
+    100142: Bind_Spine1
+    100144: Bind_Spine2
+    100146: cchain
+    100148: chain_cover
+    100150: Character
+    100152: //RootNode
+    100154: Cycle stand
+    100156: cycle_grp
+    100158: cycleBody
+    100160: Cylinder
+    100162: Cylinder.002
+    100164: disc
+    100166: Front down
+    100168: Front handle
+    100170: Joint_GRP
+    100172: Mesh_Body
+    100174: Mesh_Body.001
+    100176: Mesh_Bottoms
+    100178: Mesh_Bottoms.001
+    100180: Mesh_default1
+    100182: Mesh_GRP
+    100184: Mesh_Hair
+    100186: Mesh_Moustaches
+    100188: Mesh_slipper L.001
+    100190: Mesh_Tops
+    100192: OBJ_Bicycle_M1.003
+    100194: OBJ_Bicycle_M1.004
+    100196: OBJ_Bicycle_M1.008
+    100198: OBJ_Bicycle_M2.003
+    100200: OBJ_Bicycle_M2.010
+    100202: OBJ_Bicycle_M4.000
+    100204: OBJ_Bicycle_M4.006
+    100206: OBJ_Bicycle_M4.009
+    100208: OBJ_Bicycle_M4.010
+    100210: OBJ_Bicycle_M4.016
+    100212: OBJ_Bicycle_M4.019
+    100214: OBJ_Bicycle_M4.020
+    100216: padel_bottom
+    100218: Seat
+    100220: Wheel_Back
+    100222: Wheel_front
+    400000: Back seat
+    400002: back_movebale obj
+    400004: badel_handel
+    400006: bag1
+    400008: bag2
+    400010: BEll
+    400012: BezierCircle
+    400014: Bind_Head
+    400016: Bind_HeadTop_End
+    400018: Bind_Hips
+    400020: Bind_Joint_GRP
+    400022: Bind_LeftArm
+    400024: Bind_LeftFoot
+    400026: Bind_LeftForeArm
+    400028: Bind_LeftHand
+    400030: Bind_LeftHandIndex1
+    400032: Bind_LeftHandIndex2
+    400034: Bind_LeftHandIndex3
+    400036: Bind_LeftHandIndex4
+    400038: Bind_LeftHandMiddle1
+    400040: Bind_LeftHandMiddle2
+    400042: Bind_LeftHandMiddle3
+    400044: Bind_LeftHandMiddle4
+    400046: Bind_LeftHandPinky1
+    400048: Bind_LeftHandPinky2
+    400050: Bind_LeftHandPinky3
+    400052: Bind_LeftHandPinky4
+    400054: Bind_LeftHandRing1
+    400056: Bind_LeftHandRing2
+    400058: Bind_LeftHandRing3
+    400060: Bind_LeftHandRing4
+    400062: Bind_LeftHandThumb1
+    400064: Bind_LeftHandThumb2
+    400066: Bind_LeftHandThumb3
+    400068: Bind_LeftHandThumb4
+    400070: Bind_LeftLeg
+    400072: Bind_LeftShoulder
+    400074: Bind_LeftToe_End
+    400076: Bind_LeftToeBase
+    400078: Bind_LeftUpLeg
+    400080: Bind_Neck
+    400082: Bind_RightArm
+    400084: Bind_RightFoot
+    400086: Bind_RightForeArm
+    400088: Bind_RightHand
+    400090: Bind_RightHandIndex1
+    400092: Bind_RightHandIndex2
+    400094: Bind_RightHandIndex3
+    400096: Bind_RightHandIndex4
+    400098: Bind_RightHandMiddle1
+    400100: Bind_RightHandMiddle2
+    400102: Bind_RightHandMiddle3
+    400104: Bind_RightHandMiddle4
+    400106: Bind_RightHandPinky1
+    400108: Bind_RightHandPinky2
+    400110: Bind_RightHandPinky3
+    400112: Bind_RightHandPinky4
+    400114: Bind_RightHandRing1
+    400116: Bind_RightHandRing2
+    400118: Bind_RightHandRing3
+    400120: Bind_RightHandRing4
+    400122: Bind_RightHandThumb1
+    400124: Bind_RightHandThumb2
+    400126: Bind_RightHandThumb3
+    400128: Bind_RightHandThumb4
+    400130: Bind_RightLeg
+    400132: Bind_RightShoulder
+    400134: Bind_RightToe_End
+    400136: Bind_RightToeBase
+    400138: Bind_RightUpLeg
+    400140: Bind_Spine
+    400142: Bind_Spine1
+    400144: Bind_Spine2
+    400146: cchain
+    400148: chain_cover
+    400150: Character
+    400152: //RootNode
+    400154: Cycle stand
+    400156: cycle_grp
+    400158: cycleBody
+    400160: Cylinder
+    400162: Cylinder.002
+    400164: disc
+    400166: Front down
+    400168: Front handle
+    400170: Joint_GRP
+    400172: Mesh_Body
+    400174: Mesh_Body.001
+    400176: Mesh_Bottoms
+    400178: Mesh_Bottoms.001
+    400180: Mesh_default1
+    400182: Mesh_GRP
+    400184: Mesh_Hair
+    400186: Mesh_Moustaches
+    400188: Mesh_slipper L.001
+    400190: Mesh_Tops
+    400192: OBJ_Bicycle_M1.003
+    400194: OBJ_Bicycle_M1.004
+    400196: OBJ_Bicycle_M1.008
+    400198: OBJ_Bicycle_M2.003
+    400200: OBJ_Bicycle_M2.010
+    400202: OBJ_Bicycle_M4.000
+    400204: OBJ_Bicycle_M4.006
+    400206: OBJ_Bicycle_M4.009
+    400208: OBJ_Bicycle_M4.010
+    400210: OBJ_Bicycle_M4.016
+    400212: OBJ_Bicycle_M4.019
+    400214: OBJ_Bicycle_M4.020
+    400216: padel_bottom
+    400218: Seat
+    400220: Wheel_Back
+    400222: Wheel_front
+    2300000: Back seat
+    2300002: back_movebale obj
+    2300004: badel_handel
+    2300006: bag1
+    2300008: bag2
+    2300010: BEll
+    2300012: BezierCircle
+    2300014: cchain
+    2300016: chain_cover
+    2300018: Cycle stand
+    2300020: cycleBody
+    2300022: Cylinder
+    2300024: Cylinder.002
+    2300026: disc
+    2300028: Front down
+    2300030: OBJ_Bicycle_M1.003
+    2300032: OBJ_Bicycle_M1.004
+    2300034: OBJ_Bicycle_M1.008
+    2300036: OBJ_Bicycle_M2.003
+    2300038: OBJ_Bicycle_M2.010
+    2300040: OBJ_Bicycle_M4.000
+    2300042: OBJ_Bicycle_M4.006
+    2300044: OBJ_Bicycle_M4.009
+    2300046: OBJ_Bicycle_M4.010
+    2300048: OBJ_Bicycle_M4.016
+    2300050: OBJ_Bicycle_M4.019
+    2300052: OBJ_Bicycle_M4.020
+    2300054: padel_bottom
+    2300056: Seat
+    2300058: Wheel_Back
+    2300060: Wheel_front
+    3300000: Back seat
+    3300002: back_movebale obj
+    3300004: badel_handel
+    3300006: bag1
+    3300008: bag2
+    3300010: BEll
+    3300012: BezierCircle
+    3300014: cchain
+    3300016: chain_cover
+    3300018: Cycle stand
+    3300020: cycleBody
+    3300022: Cylinder
+    3300024: Cylinder.002
+    3300026: disc
+    3300028: Front down
+    3300030: OBJ_Bicycle_M1.003
+    3300032: OBJ_Bicycle_M1.004
+    3300034: OBJ_Bicycle_M1.008
+    3300036: OBJ_Bicycle_M2.003
+    3300038: OBJ_Bicycle_M2.010
+    3300040: OBJ_Bicycle_M4.000
+    3300042: OBJ_Bicycle_M4.006
+    3300044: OBJ_Bicycle_M4.009
+    3300046: OBJ_Bicycle_M4.010
+    3300048: OBJ_Bicycle_M4.016
+    3300050: OBJ_Bicycle_M4.019
+    3300052: OBJ_Bicycle_M4.020
+    3300054: padel_bottom
+    3300056: Seat
+    3300058: Wheel_Back
+    3300060: Wheel_front
+    4300000: bag2
+    4300002: Mesh_Body.001
+    4300004: Mesh_Body
+    4300006: Mesh_Bottoms.001
+    4300008: Mesh_Bottoms
+    4300010: Mesh_Hair
+    4300012: Mesh_Moustaches
+    4300014: Mesh_Tops
+    4300016: Mesh_default1
+    4300018: Mesh_slipper L.001
+    4300020: cycleBody
+    4300022: cchain
+    4300024: OBJ_Bicycle_M4.000
+    4300026: OBJ_Bicycle_M1.003
+    4300028: BEll
+    4300030: OBJ_Bicycle_M2.010
+    4300032: Cylinder
+    4300034: OBJ_Bicycle_M4.016
+    4300036: Front down
+    4300038: OBJ_Bicycle_M4.010
+    4300040: Wheel_front
+    4300042: bag1
+    4300044: OBJ_Bicycle_M2.003
+    4300046: back_movebale obj
+    4300048: Cylinder.002
+    4300050: BezierCircle
+    4300052: disc
+    4300054: Wheel_Back
+    4300056: OBJ_Bicycle_M4.020
+    4300058: OBJ_Bicycle_M4.019
+    4300060: OBJ_Bicycle_M1.008
+    4300062: badel_handel
+    4300064: OBJ_Bicycle_M1.004
+    4300066: padel_bottom
+    4300068: OBJ_Bicycle_M4.009
+    4300070: Cycle stand
+    4300072: OBJ_Bicycle_M4.006
+    4300074: Back seat
+    4300076: Seat
+    4300078: chain_cover
+    7400000: Fall
+    9500000: //RootNode
+    13700000: Mesh_Body
+    13700002: Mesh_Body.001
+    13700004: Mesh_Bottoms
+    13700006: Mesh_Bottoms.001
+    13700008: Mesh_default1
+    13700010: Mesh_Hair
+    13700012: Mesh_Moustaches
+    13700014: Mesh_slipper L.001
+    13700016: Mesh_Tops
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: ca99477234bff9549a5e80e4a6d1d198, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottom
+    second: {fileID: 2100000, guid: 86b27d7939ae6fb43a45c9dd1c960654, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cycle_body
+    second: {fileID: 2100000, guid: 3e84fa1ae7929e6419f948b8dc0626c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cycle_body 02
+    second: {fileID: 2100000, guid: e10d7969ab2654b44a35a864f07c65d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cycle_silver
+    second: {fileID: 2100000, guid: 47873f2b1c07f314bba7bcf37f5dc7cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cycle_steel
+    second: {fileID: 2100000, guid: d359b2b9fd679e7419a05981ee37dc89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cycleboy 03
+    second: {fileID: 2100000, guid: 43745b637c0c482459af17a81022019d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cyclechrome
+    second: {fileID: 2100000, guid: 83acdeebb1e366144bab8005d42acd95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair
+    second: {fileID: 2100000, guid: 53e14683bb90d114bb763250a6375d27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Top
+    second: {fileID: 2100000, guid: 14da2dbb6f8f8d64b9fc4aeedc417f4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chain
+    second: {fileID: 2100000, guid: f06a39ad7a680794eb1aa5445305217f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cycle_matt_break
+    second: {fileID: 2100000, guid: 35e85fb32f2bd3548ae373c80eb89284, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: handle
+    second: {fileID: 2100000, guid: 9e7277682c431d44d810ec59ebe9f375, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light
+    second: {fileID: 2100000, guid: 3c1d7e1cfebb1424caa095dca767b9f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong4
+    second: {fileID: 2100000, guid: b67f0a2da906acc409c7db1c189afce0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sandel
+    second: {fileID: 2100000, guid: 6e26c03b070f470478c6a6e2629154e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire
+    second: {fileID: 2100000, guid: 34367b4b579e7ae41a500321e50aa8f5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Fall
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

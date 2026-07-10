@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 08cb7ac9d96b4b6ab679daf545103e64
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225963
+  packageName: IK Avatar Driver (2019.x and higher)
+  packageVersion: 1.1.0
+  assetPath: Assets/TurnTheGameOn/IKAvatarDriver/Prefabs/AvatarDriver_RCC.prefab
+  uploadId: 509807

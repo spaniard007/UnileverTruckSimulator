@@ -1,0 +1,6 @@
+newmtl tripo_material_a765174a_07a9_42c8_aad6_f2291506a72c
+Kd 1.000000000 1.000000000 1.000000000
+d 1.000000000
+illum 2
+map_Kd person+3d+model_basecolor.jpg
+

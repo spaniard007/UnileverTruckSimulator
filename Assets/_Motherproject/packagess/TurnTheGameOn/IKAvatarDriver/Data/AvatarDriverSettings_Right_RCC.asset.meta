@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 590fe13cc11a4ae394643f58ad4636d3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225963
+  packageName: IK Avatar Driver (2019.x and higher)
+  packageVersion: 1.1.0
+  assetPath: Assets/TurnTheGameOn/IKAvatarDriver/Data/AvatarDriverSettings_Right_RCC.asset
+  uploadId: 509807

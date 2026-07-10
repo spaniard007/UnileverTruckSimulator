@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0b7d13277ef842c0a2c2bdffdb80c70f
+timeCreated: 1454218220
+licenseType: Store
+ShaderImporter:
+  defaultTextures:
+  - _Mask: {fileID: 2800000, guid: 8d05bc0615227f4459881f922c6d1234, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225963
+  packageName: IK Avatar Driver (2019.x and higher)
+  packageVersion: 1.1.0
+  assetPath: Assets/TurnTheGameOn/IKAvatarDriver/Shaders/CarMirror.shader
+  uploadId: 509807

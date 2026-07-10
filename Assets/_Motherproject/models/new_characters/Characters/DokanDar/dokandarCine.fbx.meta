@@ -1,0 +1,1467 @@
+fileFormatVersion: 2
+guid: 4889864745ff8334f9e387ebcd75a517
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: dokandarAnim:Bind_Head
+  - first:
+      1: 100002
+    second: dokandarAnim:Bind_HeadTop_End
+  - first:
+      1: 100004
+    second: dokandarAnim:Bind_Hips
+  - first:
+      1: 100006
+    second: dokandarAnim:Bind_Joint_GRP
+  - first:
+      1: 100008
+    second: dokandarAnim:Bind_LeftArm
+  - first:
+      1: 100010
+    second: dokandarAnim:Bind_LeftFoot
+  - first:
+      1: 100012
+    second: dokandarAnim:Bind_LeftForeArm
+  - first:
+      1: 100014
+    second: dokandarAnim:Bind_LeftHand
+  - first:
+      1: 100016
+    second: dokandarAnim:Bind_LeftHandIndex1
+  - first:
+      1: 100018
+    second: dokandarAnim:Bind_LeftHandIndex2
+  - first:
+      1: 100020
+    second: dokandarAnim:Bind_LeftHandIndex3
+  - first:
+      1: 100022
+    second: dokandarAnim:Bind_LeftHandIndex4
+  - first:
+      1: 100024
+    second: dokandarAnim:Bind_LeftHandMiddle1
+  - first:
+      1: 100026
+    second: dokandarAnim:Bind_LeftHandMiddle2
+  - first:
+      1: 100028
+    second: dokandarAnim:Bind_LeftHandMiddle3
+  - first:
+      1: 100030
+    second: dokandarAnim:Bind_LeftHandMiddle4
+  - first:
+      1: 100032
+    second: dokandarAnim:Bind_LeftHandPinky1
+  - first:
+      1: 100034
+    second: dokandarAnim:Bind_LeftHandPinky2
+  - first:
+      1: 100036
+    second: dokandarAnim:Bind_LeftHandPinky3
+  - first:
+      1: 100038
+    second: dokandarAnim:Bind_LeftHandPinky4
+  - first:
+      1: 100040
+    second: dokandarAnim:Bind_LeftHandRing1
+  - first:
+      1: 100042
+    second: dokandarAnim:Bind_LeftHandRing2
+  - first:
+      1: 100044
+    second: dokandarAnim:Bind_LeftHandRing3
+  - first:
+      1: 100046
+    second: dokandarAnim:Bind_LeftHandRing4
+  - first:
+      1: 100048
+    second: dokandarAnim:Bind_LeftHandThumb1
+  - first:
+      1: 100050
+    second: dokandarAnim:Bind_LeftHandThumb2
+  - first:
+      1: 100052
+    second: dokandarAnim:Bind_LeftHandThumb3
+  - first:
+      1: 100054
+    second: dokandarAnim:Bind_LeftHandThumb4
+  - first:
+      1: 100056
+    second: dokandarAnim:Bind_LeftLeg
+  - first:
+      1: 100058
+    second: dokandarAnim:Bind_LeftShoulder
+  - first:
+      1: 100060
+    second: dokandarAnim:Bind_LeftToe_End
+  - first:
+      1: 100062
+    second: dokandarAnim:Bind_LeftToeBase
+  - first:
+      1: 100064
+    second: dokandarAnim:Bind_LeftUpLeg
+  - first:
+      1: 100066
+    second: dokandarAnim:Bind_Neck
+  - first:
+      1: 100068
+    second: dokandarAnim:Bind_RightArm
+  - first:
+      1: 100070
+    second: dokandarAnim:Bind_RightFoot
+  - first:
+      1: 100072
+    second: dokandarAnim:Bind_RightForeArm
+  - first:
+      1: 100074
+    second: dokandarAnim:Bind_RightHand
+  - first:
+      1: 100076
+    second: dokandarAnim:Bind_RightHandIndex1
+  - first:
+      1: 100078
+    second: dokandarAnim:Bind_RightHandIndex2
+  - first:
+      1: 100080
+    second: dokandarAnim:Bind_RightHandIndex3
+  - first:
+      1: 100082
+    second: dokandarAnim:Bind_RightHandIndex4
+  - first:
+      1: 100084
+    second: dokandarAnim:Bind_RightHandMiddle1
+  - first:
+      1: 100086
+    second: dokandarAnim:Bind_RightHandMiddle2
+  - first:
+      1: 100088
+    second: dokandarAnim:Bind_RightHandMiddle3
+  - first:
+      1: 100090
+    second: dokandarAnim:Bind_RightHandMiddle4
+  - first:
+      1: 100092
+    second: dokandarAnim:Bind_RightHandPinky1
+  - first:
+      1: 100094
+    second: dokandarAnim:Bind_RightHandPinky2
+  - first:
+      1: 100096
+    second: dokandarAnim:Bind_RightHandPinky3
+  - first:
+      1: 100098
+    second: dokandarAnim:Bind_RightHandPinky4
+  - first:
+      1: 100100
+    second: dokandarAnim:Bind_RightHandRing1
+  - first:
+      1: 100102
+    second: dokandarAnim:Bind_RightHandRing2
+  - first:
+      1: 100104
+    second: dokandarAnim:Bind_RightHandRing3
+  - first:
+      1: 100106
+    second: dokandarAnim:Bind_RightHandRing4
+  - first:
+      1: 100108
+    second: dokandarAnim:Bind_RightHandThumb1
+  - first:
+      1: 100110
+    second: dokandarAnim:Bind_RightHandThumb2
+  - first:
+      1: 100112
+    second: dokandarAnim:Bind_RightHandThumb3
+  - first:
+      1: 100114
+    second: dokandarAnim:Bind_RightHandThumb4
+  - first:
+      1: 100116
+    second: dokandarAnim:Bind_RightLeg
+  - first:
+      1: 100118
+    second: dokandarAnim:Bind_RightShoulder
+  - first:
+      1: 100120
+    second: dokandarAnim:Bind_RightToe_End
+  - first:
+      1: 100122
+    second: dokandarAnim:Bind_RightToeBase
+  - first:
+      1: 100124
+    second: dokandarAnim:Bind_RightUpLeg
+  - first:
+      1: 100126
+    second: dokandarAnim:Bind_Spine
+  - first:
+      1: 100128
+    second: dokandarAnim:Bind_Spine1
+  - first:
+      1: 100130
+    second: dokandarAnim:Bind_Spine2
+  - first:
+      1: 100132
+    second: dokandarAnim:Joint_GRP
+  - first:
+      1: 100134
+    second: dokandarAnim:Mesh_Beards
+  - first:
+      1: 100136
+    second: dokandarAnim:Mesh_Bottoms
+  - first:
+      1: 100138
+    second: dokandarAnim:Mesh_cap
+  - first:
+      1: 100140
+    second: dokandarAnim:Mesh_default1
+  - first:
+      1: 100142
+    second: dokandarAnim:Mesh_GRP
+  - first:
+      1: 100144
+    second: dokandarAnim:Mesh_head
+  - first:
+      1: 100146
+    second: dokandarAnim:Mesh_head.001
+  - first:
+      1: 100148
+    second: dokandarAnim:Mesh_slipper L.002
+  - first:
+      1: 100150
+    second: dokandarAnim:Mesh_Tops
+  - first:
+      1: 100152
+    second: //RootNode
+  - first:
+      4: 400000
+    second: dokandarAnim:Bind_Head
+  - first:
+      4: 400002
+    second: dokandarAnim:Bind_HeadTop_End
+  - first:
+      4: 400004
+    second: dokandarAnim:Bind_Hips
+  - first:
+      4: 400006
+    second: dokandarAnim:Bind_Joint_GRP
+  - first:
+      4: 400008
+    second: dokandarAnim:Bind_LeftArm
+  - first:
+      4: 400010
+    second: dokandarAnim:Bind_LeftFoot
+  - first:
+      4: 400012
+    second: dokandarAnim:Bind_LeftForeArm
+  - first:
+      4: 400014
+    second: dokandarAnim:Bind_LeftHand
+  - first:
+      4: 400016
+    second: dokandarAnim:Bind_LeftHandIndex1
+  - first:
+      4: 400018
+    second: dokandarAnim:Bind_LeftHandIndex2
+  - first:
+      4: 400020
+    second: dokandarAnim:Bind_LeftHandIndex3
+  - first:
+      4: 400022
+    second: dokandarAnim:Bind_LeftHandIndex4
+  - first:
+      4: 400024
+    second: dokandarAnim:Bind_LeftHandMiddle1
+  - first:
+      4: 400026
+    second: dokandarAnim:Bind_LeftHandMiddle2
+  - first:
+      4: 400028
+    second: dokandarAnim:Bind_LeftHandMiddle3
+  - first:
+      4: 400030
+    second: dokandarAnim:Bind_LeftHandMiddle4
+  - first:
+      4: 400032
+    second: dokandarAnim:Bind_LeftHandPinky1
+  - first:
+      4: 400034
+    second: dokandarAnim:Bind_LeftHandPinky2
+  - first:
+      4: 400036
+    second: dokandarAnim:Bind_LeftHandPinky3
+  - first:
+      4: 400038
+    second: dokandarAnim:Bind_LeftHandPinky4
+  - first:
+      4: 400040
+    second: dokandarAnim:Bind_LeftHandRing1
+  - first:
+      4: 400042
+    second: dokandarAnim:Bind_LeftHandRing2
+  - first:
+      4: 400044
+    second: dokandarAnim:Bind_LeftHandRing3
+  - first:
+      4: 400046
+    second: dokandarAnim:Bind_LeftHandRing4
+  - first:
+      4: 400048
+    second: dokandarAnim:Bind_LeftHandThumb1
+  - first:
+      4: 400050
+    second: dokandarAnim:Bind_LeftHandThumb2
+  - first:
+      4: 400052
+    second: dokandarAnim:Bind_LeftHandThumb3
+  - first:
+      4: 400054
+    second: dokandarAnim:Bind_LeftHandThumb4
+  - first:
+      4: 400056
+    second: dokandarAnim:Bind_LeftLeg
+  - first:
+      4: 400058
+    second: dokandarAnim:Bind_LeftShoulder
+  - first:
+      4: 400060
+    second: dokandarAnim:Bind_LeftToe_End
+  - first:
+      4: 400062
+    second: dokandarAnim:Bind_LeftToeBase
+  - first:
+      4: 400064
+    second: dokandarAnim:Bind_LeftUpLeg
+  - first:
+      4: 400066
+    second: dokandarAnim:Bind_Neck
+  - first:
+      4: 400068
+    second: dokandarAnim:Bind_RightArm
+  - first:
+      4: 400070
+    second: dokandarAnim:Bind_RightFoot
+  - first:
+      4: 400072
+    second: dokandarAnim:Bind_RightForeArm
+  - first:
+      4: 400074
+    second: dokandarAnim:Bind_RightHand
+  - first:
+      4: 400076
+    second: dokandarAnim:Bind_RightHandIndex1
+  - first:
+      4: 400078
+    second: dokandarAnim:Bind_RightHandIndex2
+  - first:
+      4: 400080
+    second: dokandarAnim:Bind_RightHandIndex3
+  - first:
+      4: 400082
+    second: dokandarAnim:Bind_RightHandIndex4
+  - first:
+      4: 400084
+    second: dokandarAnim:Bind_RightHandMiddle1
+  - first:
+      4: 400086
+    second: dokandarAnim:Bind_RightHandMiddle2
+  - first:
+      4: 400088
+    second: dokandarAnim:Bind_RightHandMiddle3
+  - first:
+      4: 400090
+    second: dokandarAnim:Bind_RightHandMiddle4
+  - first:
+      4: 400092
+    second: dokandarAnim:Bind_RightHandPinky1
+  - first:
+      4: 400094
+    second: dokandarAnim:Bind_RightHandPinky2
+  - first:
+      4: 400096
+    second: dokandarAnim:Bind_RightHandPinky3
+  - first:
+      4: 400098
+    second: dokandarAnim:Bind_RightHandPinky4
+  - first:
+      4: 400100
+    second: dokandarAnim:Bind_RightHandRing1
+  - first:
+      4: 400102
+    second: dokandarAnim:Bind_RightHandRing2
+  - first:
+      4: 400104
+    second: dokandarAnim:Bind_RightHandRing3
+  - first:
+      4: 400106
+    second: dokandarAnim:Bind_RightHandRing4
+  - first:
+      4: 400108
+    second: dokandarAnim:Bind_RightHandThumb1
+  - first:
+      4: 400110
+    second: dokandarAnim:Bind_RightHandThumb2
+  - first:
+      4: 400112
+    second: dokandarAnim:Bind_RightHandThumb3
+  - first:
+      4: 400114
+    second: dokandarAnim:Bind_RightHandThumb4
+  - first:
+      4: 400116
+    second: dokandarAnim:Bind_RightLeg
+  - first:
+      4: 400118
+    second: dokandarAnim:Bind_RightShoulder
+  - first:
+      4: 400120
+    second: dokandarAnim:Bind_RightToe_End
+  - first:
+      4: 400122
+    second: dokandarAnim:Bind_RightToeBase
+  - first:
+      4: 400124
+    second: dokandarAnim:Bind_RightUpLeg
+  - first:
+      4: 400126
+    second: dokandarAnim:Bind_Spine
+  - first:
+      4: 400128
+    second: dokandarAnim:Bind_Spine1
+  - first:
+      4: 400130
+    second: dokandarAnim:Bind_Spine2
+  - first:
+      4: 400132
+    second: dokandarAnim:Joint_GRP
+  - first:
+      4: 400134
+    second: dokandarAnim:Mesh_Beards
+  - first:
+      4: 400136
+    second: dokandarAnim:Mesh_Bottoms
+  - first:
+      4: 400138
+    second: dokandarAnim:Mesh_cap
+  - first:
+      4: 400140
+    second: dokandarAnim:Mesh_default1
+  - first:
+      4: 400142
+    second: dokandarAnim:Mesh_GRP
+  - first:
+      4: 400144
+    second: dokandarAnim:Mesh_head
+  - first:
+      4: 400146
+    second: dokandarAnim:Mesh_head.001
+  - first:
+      4: 400148
+    second: dokandarAnim:Mesh_slipper L.002
+  - first:
+      4: 400150
+    second: dokandarAnim:Mesh_Tops
+  - first:
+      4: 400152
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: dokandarAnim:Mesh_Beards
+  - first:
+      43: 4300002
+    second: dokandarAnim:Mesh_Bottoms
+  - first:
+      43: 4300004
+    second: dokandarAnim:Mesh_Tops
+  - first:
+      43: 4300006
+    second: dokandarAnim:Mesh_cap
+  - first:
+      43: 4300008
+    second: dokandarAnim:Mesh_default1
+  - first:
+      43: 4300010
+    second: dokandarAnim:Mesh_head.001
+  - first:
+      43: 4300012
+    second: dokandarAnim:Mesh_head
+  - first:
+      43: 4300014
+    second: dokandarAnim:Mesh_slipper L.002
+  - first:
+      74: 7400000
+    second: Shouting
+  - first:
+      74: 7400002
+    second: Talking
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: dokandarAnim:Mesh_Beards
+  - first:
+      137: 13700002
+    second: dokandarAnim:Mesh_Bottoms
+  - first:
+      137: 13700004
+    second: dokandarAnim:Mesh_cap
+  - first:
+      137: 13700006
+    second: dokandarAnim:Mesh_default1
+  - first:
+      137: 13700008
+    second: dokandarAnim:Mesh_head
+  - first:
+      137: 13700010
+    second: dokandarAnim:Mesh_head.001
+  - first:
+      137: 13700012
+    second: dokandarAnim:Mesh_slipper L.002
+  - first:
+      137: 13700014
+    second: dokandarAnim:Mesh_Tops
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dokandarAnim_Beard
+    second: {fileID: 2100000, guid: cbdde452f0f83c14ea4a15c2a2875858, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dokandarAnim_Body
+    second: {fileID: 2100000, guid: c3d8eabe1822ddc43983dade8e0fd3a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dokandarAnim_Bottom
+    second: {fileID: 2100000, guid: 18b91b80caefaa547927d346d75f374c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dokandarAnim_TUPI
+    second: {fileID: 2100000, guid: fc9885ff06df92a4591cf6b651c70b5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dokandarAnim_Top
+    second: {fileID: 2100000, guid: 10a217d7d8882cc469db4f9b4e63349b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dokandarAnim_sandel
+    second: {fileID: 2100000, guid: ea3d9ce938bea9b47a9c73699afb5b9b, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Shouting
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 255
+      lastFrame: 343
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Talking
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.12
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: dokandarAnim:Bind_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dokandarAnim:Bind_Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: dokandarCine(Clone)
+      parentName: 
+      position: {x: 0.00002332983, y: -0.000082085, z: 0.0005681166}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Joint_GRP
+      parentName: dokandarCine(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Bind_Joint_GRP
+      parentName: dokandarAnim:Joint_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Bind_Hips
+      parentName: dokandarAnim:Bind_Joint_GRP
+      position: {x: -0.00002221432, y: 0.011261679, z: 0.00034595656}
+      rotation: {x: 0.00000012642549, y: -0.008340238, z: 0.0000000021581705, w: 0.99996525}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.9999999}
+    - name: dokandarAnim:Bind_Spine
+      parentName: dokandarAnim:Bind_Hips
+      position: {x: -0, y: 0.0019697708, z: 0.000008708312}
+      rotation: {x: 0.002210468, y: -0.0000000014584046, z: -0.000000001451971, w: 0.9999976}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1.0000005}
+    - name: dokandarAnim:Bind_Spine1
+      parentName: dokandarAnim:Bind_Spine
+      position: {x: -0, y: 0.002298088, z: 3.8112964e-13}
+      rotation: {x: 0.0000000896398, y: -0.0000000029360887, z: -0.0000000058078435, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000004}
+    - name: dokandarAnim:Bind_Spine2
+      parentName: dokandarAnim:Bind_Spine1
+      position: {x: -0, y: 0.0026263876, z: -2.2021762e-14}
+      rotation: {x: -0, y: 0.0000000029103548, z: -1.2867038e-11, w: 1}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1}
+    - name: dokandarAnim:Bind_LeftShoulder
+      parentName: dokandarAnim:Bind_Spine2
+      position: {x: -0.0010459644, y: 0.0026949637, z: -0.00000103176}
+      rotation: {x: -0.55657834, y: 0.4360061, z: -0.557124, w: -0.4355825}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: dokandarAnim:Bind_LeftArm
+      parentName: dokandarAnim:Bind_LeftShoulder
+      position: {x: -1.9559598e-13, y: 0.0021691122, z: 1.9839214e-11}
+      rotation: {x: 0.085002765, y: -0.002594903, z: 0.030402094, w: -0.99591345}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.000001}
+    - name: dokandarAnim:Bind_LeftForeArm
+      parentName: dokandarAnim:Bind_LeftArm
+      position: {x: 1.5120542e-13, y: 0.0027870222, z: -5.8103856e-12}
+      rotation: {x: -0.04200441, y: 0.0028504047, z: -0.01936793, w: 0.9989256}
+      scale: {x: 1, y: 1.0000001, z: 1.0000004}
+    - name: dokandarAnim:Bind_LeftHand
+      parentName: dokandarAnim:Bind_LeftForeArm
+      position: {x: -1.17282425e-11, y: 0.0043581235, z: 2.6441494e-12}
+      rotation: {x: 0.010795258, y: -0.0030960348, z: -0.08696303, w: -0.9961482}
+      scale: {x: 1.0000004, y: 1.0000008, z: 1.0000011}
+    - name: dokandarAnim:Bind_LeftHandPinky1
+      parentName: dokandarAnim:Bind_LeftHand
+      position: {x: -0.0004744915, y: 0.0011295715, z: 0.00003771208}
+      rotation: {x: -0.0122299185, y: 0.0005693808, z: 0.04650089, w: -0.99884325}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.9999996}
+    - name: dokandarAnim:Bind_LeftHandPinky2
+      parentName: dokandarAnim:Bind_LeftHandPinky1
+      position: {x: 0.0000004176765, y: 0.00037861077, z: 1.1455267e-13}
+      rotation: {x: -0.0068958113, y: 0.000000022177119, z: -0.000000050616336, w: 0.9999762}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000004}
+    - name: dokandarAnim:Bind_LeftHandPinky3
+      parentName: dokandarAnim:Bind_LeftHandPinky2
+      position: {x: 0.00000054047115, y: 0.00032151904, z: 1.7627643e-13}
+      rotation: {x: 0.038244367, y: -0.000070424154, z: -0.001735819, w: 0.9992669}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000001}
+    - name: dokandarAnim:Bind_LeftHandPinky4
+      parentName: dokandarAnim:Bind_LeftHandPinky3
+      position: {x: -0.0000009581435, y: 0.00025800813, z: 2.069997e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Bind_LeftHandRing1
+      parentName: dokandarAnim:Bind_LeftHand
+      position: {x: -0.00015253396, y: 0.0012662853, z: -0.000052970667}
+      rotation: {x: -0.012291178, y: 0.00038076186, z: 0.030959424, w: -0.99944496}
+      scale: {x: 0.9999996, y: 0.99999994, z: 0.99999934}
+    - name: dokandarAnim:Bind_LeftHandRing2
+      parentName: dokandarAnim:Bind_LeftHandRing1
+      position: {x: 0.0000006633291, y: 0.00046448893, z: -6.8149344e-14}
+      rotation: {x: 0.009796215, y: -0.000000023457687, z: 0.000000037086465, w: 0.999952}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: dokandarAnim:Bind_LeftHandRing3
+      parentName: dokandarAnim:Bind_LeftHandRing2
+      position: {x: 0.00000037028246, y: 0.0004301403, z: -2.0615333e-13}
+      rotation: {x: 0.040098578, y: -0.000028858414, z: -0.0007811885, w: 0.99919546}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000006}
+    - name: dokandarAnim:Bind_LeftHandRing4
+      parentName: dokandarAnim:Bind_LeftHandRing3
+      position: {x: -0.0000010336177, y: 0.00037118653, z: -6.5161843e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Bind_LeftHandThumb1
+      parentName: dokandarAnim:Bind_LeftHand
+      position: {x: 0.00033020083, y: 0.0003841118, z: 0.00022184804}
+      rotation: {x: -0.08056131, y: 0.0032829517, z: 0.37178355, w: -0.92481136}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000004}
+    - name: dokandarAnim:Bind_LeftHandThumb2
+      parentName: dokandarAnim:Bind_LeftHandThumb1
+      position: {x: 0.000029561948, y: 0.0004413981, z: -9.72904e-12}
+      rotation: {x: 0.021092875, y: -0.00000049173826, z: -0.00000011455266, w: 0.99977756}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000006}
+    - name: dokandarAnim:Bind_LeftHandThumb3
+      parentName: dokandarAnim:Bind_LeftHandThumb2
+      position: {x: 0.000007965322, y: 0.00048865075, z: -7.981878e-12}
+      rotation: {x: 0.030195815, y: -0.0011636099, z: -0.02711159, w: 0.9991756}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: dokandarAnim:Bind_LeftHandThumb4
+      parentName: dokandarAnim:Bind_LeftHandThumb3
+      position: {x: -0.00003752725, y: 0.00041942106, z: 1.3589972e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Bind_LeftHandMiddle1
+      parentName: dokandarAnim:Bind_LeftHand
+      position: {x: 0.00013741117, y: 0.0012231704, z: -0.000014544012}
+      rotation: {x: -0.03351566, y: 0.0015039404, z: 0.04480144, w: -0.99843246}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000005}
+    - name: dokandarAnim:Bind_LeftHandMiddle2
+      parentName: dokandarAnim:Bind_LeftHandMiddle1
+      position: {x: -0.00000027054855, y: 0.0005121448, z: -1.5605018e-13}
+      rotation: {x: -0.015678098, y: 0.00000002142042, z: 0.000000068710506, w: 0.99987715}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000005}
+    - name: dokandarAnim:Bind_LeftHandMiddle3
+      parentName: dokandarAnim:Bind_LeftHandMiddle2
+      position: {x: 0.00000012922014, y: 0.00049686834, z: 2.8645809e-13}
+      rotation: {x: -0.00095680146, y: -0.000000022539306, z: 0.000000015980834, w: 0.9999995}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000007}
+    - name: dokandarAnim:Bind_LeftHandMiddle4
+      parentName: dokandarAnim:Bind_LeftHandMiddle3
+      position: {x: 0.00000014132938, y: 0.0004586966, z: 1.529206e-13}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Bind_LeftHandIndex1
+      parentName: dokandarAnim:Bind_LeftHand
+      position: {x: 0.0004896143, y: 0.0012623367, z: 0.000024449566}
+      rotation: {x: 0.005475849, y: -0.000078898396, z: -0.014405578, w: 0.99988127}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Bind_LeftHandIndex2
+      parentName: dokandarAnim:Bind_LeftHandIndex1
+      position: {x: 0.00000091906526, y: 0.0004481111, z: 3.5752686e-13}
+      rotation: {x: 0.05819155, y: -0.000000029765939, z: 0.000000011262726, w: 0.99830544}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+    - name: dokandarAnim:Bind_LeftHandIndex3
+      parentName: dokandarAnim:Bind_LeftHandIndex2
+      position: {x: -0.00000053769173, y: 0.0004069428, z: 2.5809465e-12}
+      rotation: {x: -0.015163807, y: 0.000000047379046, z: 0.00000006798012, w: 0.999885}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000004}
+    - name: dokandarAnim:Bind_LeftHandIndex4
+      parentName: dokandarAnim:Bind_LeftHandIndex3
+      position: {x: -0.00000038137347, y: 0.00033585745, z: -8.0955755e-13}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Bind_Neck
+      parentName: dokandarAnim:Bind_Spine2
+      position: {x: -0, y: 0.0029546844, z: -1.0636947e-10}
+      rotation: {x: -0.0022105577, y: -3.380627e-10, z: 0.00000001164231, w: 0.9999976}
+      scale: {x: 1, y: 1.0000005, z: 1.0000002}
+    - name: dokandarAnim:Bind_Head
+      parentName: dokandarAnim:Bind_Neck
+      position: {x: -0, y: 0.00037255365, z: 0.00016710431}
+      rotation: {x: -0, y: 3.6379794e-10, z: -0.0000000058207665, w: 1}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000005}
+    - name: dokandarAnim:Bind_HeadTop_End
+      parentName: dokandarAnim:Bind_Head
+      position: {x: -0, y: 0.0032453947, z: 0.0014556824}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Bind_RightShoulder
+      parentName: dokandarAnim:Bind_Spine2
+      position: {x: 0.0010459644, y: 0.002694983, z: 0.0000033279384}
+      rotation: {x: 0.5577294, y: 0.43511057, z: -0.5559637, w: 0.43648732}
+      scale: {x: 1.0000008, y: 1.0000005, z: 1.0000013}
+    - name: dokandarAnim:Bind_RightArm
+      parentName: dokandarAnim:Bind_RightShoulder
+      position: {x: 2.1682818e-13, y: 0.002169112, z: -3.0584084e-11}
+      rotation: {x: -0.0923762, y: -0.0031573013, z: 0.019834748, w: 0.9955216}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000011}
+    - name: dokandarAnim:Bind_RightForeArm
+      parentName: dokandarAnim:Bind_RightArm
+      position: {x: -5.1465564e-12, y: 0.0027866792, z: -8.105169e-12}
+      rotation: {x: -0.0382915, y: -0.0029129942, z: 0.010040007, w: 0.999212}
+      scale: {x: 1, y: 1.0000004, z: 0.99999994}
+    - name: dokandarAnim:Bind_RightHand
+      parentName: dokandarAnim:Bind_RightForeArm
+      position: {x: 3.4789695e-11, y: 0.0043539084, z: 4.5157363e-12}
+      rotation: {x: -0.0101275435, y: -0.008788441, z: -0.076156326, w: 0.99700576}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0000008}
+    - name: dokandarAnim:Bind_RightHandMiddle1
+      parentName: dokandarAnim:Bind_RightHand
+      position: {x: -0.00014141672, y: 0.0012970114, z: 0.0000054161005}
+      rotation: {x: 0.0076126456, y: 0.00025389247, z: 0.03332349, w: 0.99941564}
+      scale: {x: 1, y: 1.0000005, z: 0.9999997}
+    - name: dokandarAnim:Bind_RightHandMiddle2
+      parentName: dokandarAnim:Bind_RightHandMiddle1
+      position: {x: -0.00000069336136, y: 0.00052507664, z: -1.256224e-12}
+      rotation: {x: 0.00698275, y: -0.0000000714499, z: 0.000000025430833, w: 0.9999757}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000006}
+    - name: dokandarAnim:Bind_RightHandMiddle3
+      parentName: dokandarAnim:Bind_RightHandMiddle2
+      position: {x: -0.00000047169698, y: 0.00049629225, z: 4.0554544e-13}
+      rotation: {x: 0.04092803, y: 0.000011053901, z: 0.00042751196, w: 0.99916196}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000006}
+    - name: dokandarAnim:Bind_RightHandMiddle4
+      parentName: dokandarAnim:Bind_RightHandMiddle3
+      position: {x: 0.0000011650569, y: 0.00042926898, z: 4.078557e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Bind_RightHandThumb1
+      parentName: dokandarAnim:Bind_RightHand
+      position: {x: -0.00033466332, y: 0.00041477234, z: 0.00021937174}
+      rotation: {x: 0.083413936, y: 0.009300616, z: 0.37937778, w: 0.9214273}
+      scale: {x: 1.0000001, y: 1, z: 0.9999997}
+    - name: dokandarAnim:Bind_RightHandThumb2
+      parentName: dokandarAnim:Bind_RightHandThumb1
+      position: {x: -0.000015508964, y: 0.00046080482, z: 2.065345e-12}
+      rotation: {x: 0.034976773, y: -0.000033685912, z: 0.002293853, w: 0.9993855}
+      scale: {x: 0.99999994, y: 1, z: 0.9999998}
+    - name: dokandarAnim:Bind_RightHandThumb3
+      parentName: dokandarAnim:Bind_RightHandThumb2
+      position: {x: 0.0000075240937, y: 0.0004992924, z: -1.08381e-11}
+      rotation: {x: 0.04054056, y: 0.00035288007, z: 0.00059503026, w: 0.99917763}
+      scale: {x: 1, y: 1.0000002, z: 1.0000004}
+    - name: dokandarAnim:Bind_RightHandThumb4
+      parentName: dokandarAnim:Bind_RightHandThumb3
+      position: {x: 0.0000079849115, y: 0.00043033957, z: 9.195854e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Bind_RightHandRing1
+      parentName: dokandarAnim:Bind_RightHand
+      position: {x: 0.00015230823, y: 0.0013337702, z: -0.000046900193}
+      rotation: {x: -0.001971561, y: -0.000072292045, z: 0.036643546, w: 0.9993265}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: dokandarAnim:Bind_RightHandRing2
+      parentName: dokandarAnim:Bind_RightHandRing1
+      position: {x: -0.00000056575004, y: 0.00045108472, z: -3.431123e-13}
+      rotation: {x: 0.030224849, y: -0.000000030355288, z: 0.0000000033371625, w: 0.99954313}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: dokandarAnim:Bind_RightHandRing3
+      parentName: dokandarAnim:Bind_RightHandRing2
+      position: {x: 0.00000033402532, y: 0.0004303544, z: -7.5816106e-13}
+      rotation: {x: -0.0013893357, y: 0.00000006127363, z: -0.00000007970374, w: 0.99999905}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+    - name: dokandarAnim:Bind_RightHandRing4
+      parentName: dokandarAnim:Bind_RightHandRing3
+      position: {x: 0.00000023172025, y: 0.0003606687, z: -1.4703799e-14}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Bind_RightHandPinky1
+      parentName: dokandarAnim:Bind_RightHand
+      position: {x: 0.00047196736, y: 0.0011830117, z: 0.00003719574}
+      rotation: {x: 0.0016648378, y: 0.000089278445, z: 0.053543273, w: 0.9985642}
+      scale: {x: 1, y: 1.0000002, z: 0.9999998}
+    - name: dokandarAnim:Bind_RightHandPinky2
+      parentName: dokandarAnim:Bind_RightHandPinky1
+      position: {x: -0.00000022999625, y: 0.00037564425, z: -3.7730293e-13}
+      rotation: {x: 0.011374825, y: -0.000000017680575, z: 0.00000015992167, w: 0.9999354}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000004}
+    - name: dokandarAnim:Bind_RightHandPinky3
+      parentName: dokandarAnim:Bind_RightHandPinky2
+      position: {x: 0.000000041808303, y: 0.0003130757, z: -2.132392e-13}
+      rotation: {x: 0.00923129, y: -0.0000000100283115, z: -0.00000008519518, w: 0.9999574}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1}
+    - name: dokandarAnim:Bind_RightHandPinky4
+      parentName: dokandarAnim:Bind_RightHandPinky3
+      position: {x: 0.00000018819034, y: 0.000254418, z: -3.1114266e-13}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Bind_RightHandIndex1
+      parentName: dokandarAnim:Bind_RightHand
+      position: {x: -0.0004828589, y: 0.0012944973, z: 0.000011918502}
+      rotation: {x: 0.02162049, y: 0.0005802484, z: 0.026823469, w: 0.9994063}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: dokandarAnim:Bind_RightHandIndex2
+      parentName: dokandarAnim:Bind_RightHandIndex1
+      position: {x: -0.00000001612857, y: 0.00045721885, z: -1.9515482e-13}
+      rotation: {x: 0.044805516, y: 0.000000018859277, z: -0.0000001246444, w: 0.9989957}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: dokandarAnim:Bind_RightHandIndex3
+      parentName: dokandarAnim:Bind_RightHandIndex2
+      position: {x: 0.0000012816308, y: 0.0004172889, z: -8.116421e-14}
+      rotation: {x: -0.09658884, y: -0.0000000034508423, z: 0.00000008975934, w: 0.9953244}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000007}
+    - name: dokandarAnim:Bind_RightHandIndex4
+      parentName: dokandarAnim:Bind_RightHandIndex3
+      position: {x: -0.0000012655029, y: 0.000358897, z: 1.8839173e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Bind_LeftUpLeg
+      parentName: dokandarAnim:Bind_Hips
+      position: {x: -0.0013242055, y: -0.0010950365, z: 0.00011381808}
+      rotation: {x: -0.000098903205, y: 0.009006978, z: -0.9998992, w: -0.010978572}
+      scale: {x: 1.0000002, y: 1.000001, z: 1.0000006}
+    - name: dokandarAnim:Bind_LeftLeg
+      parentName: dokandarAnim:Bind_LeftUpLeg
+      position: {x: -4.0563525e-12, y: 0.0051220097, z: -8.0071404e-13}
+      rotation: {x: -0.004394107, y: -0.0001023097, z: 0.023281874, w: 0.9997193}
+      scale: {x: 1.0000014, y: 1.0000002, z: 1}
+    - name: dokandarAnim:Bind_LeftFoot
+      parentName: dokandarAnim:Bind_LeftLeg
+      position: {x: 4.0076232e-12, y: 0.0037162616, z: 1.4994348e-12}
+      rotation: {x: -0.55424327, y: 0.013542933, z: -0.00901961, w: -0.8321957}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1}
+    - name: dokandarAnim:Bind_LeftToeBase
+      parentName: dokandarAnim:Bind_LeftFoot
+      position: {x: -2.5634427e-12, y: 0.0023389691, z: -2.4438476e-11}
+      rotation: {x: 0.2127854, y: -0.051999014, z: 0.011340805, w: 0.9756484}
+      scale: {x: 0.9999996, y: 1.0000007, z: 1.0000001}
+    - name: dokandarAnim:Bind_LeftToe_End
+      parentName: dokandarAnim:Bind_LeftToeBase
+      position: {x: 2.469432e-12, y: 0.0010446305, z: -3.669666e-13}
+      rotation: {x: -0.000000059610905, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Bind_RightUpLeg
+      parentName: dokandarAnim:Bind_Hips
+      position: {x: 0.0013242055, y: -0.0010950365, z: 0.00001992828}
+      rotation: {x: 0.00003761053, y: 0.0034238994, z: 0.99993384, w: -0.0109805}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000001}
+    - name: dokandarAnim:Bind_RightLeg
+      parentName: dokandarAnim:Bind_RightUpLeg
+      position: {x: 7.357059e-13, y: 0.005121299, z: -7.0411553e-13}
+      rotation: {x: 0.005804401, y: -0.00013522018, z: 0.023287855, w: -0.999712}
+      scale: {x: 1.0000007, y: 1.000001, z: 1.0000015}
+    - name: dokandarAnim:Bind_RightFoot
+      parentName: dokandarAnim:Bind_RightLeg
+      position: {x: -7.4024745e-12, y: 0.0037149694, z: 7.5360687e-13}
+      rotation: {x: -0.53648186, y: -0.014351299, z: 0.009125128, w: -0.8437405}
+      scale: {x: 1.0000008, y: 1.0000006, z: 1.0000001}
+    - name: dokandarAnim:Bind_RightToeBase
+      parentName: dokandarAnim:Bind_RightFoot
+      position: {x: -1.0230425e-12, y: 0.0022381297, z: 3.7202772e-11}
+      rotation: {x: 0.2226204, y: 0.047284335, z: -0.010810801, w: 0.97369784}
+      scale: {x: 1.0000013, y: 1.0000017, z: 1.0000002}
+    - name: dokandarAnim:Bind_RightToe_End
+      parentName: dokandarAnim:Bind_RightToeBase
+      position: {x: 3.48393e-12, y: 0.0010454167, z: 5.883639e-13}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Mesh_GRP
+      parentName: dokandarCine(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Mesh_Beards
+      parentName: dokandarAnim:Mesh_GRP
+      position: {x: -0.00002332983, y: 0.000082085, z: -0.0005681166}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Mesh_Bottoms
+      parentName: dokandarAnim:Mesh_GRP
+      position: {x: -0.00002332983, y: 0.000082085, z: -0.0005681166}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Mesh_Tops
+      parentName: dokandarAnim:Mesh_GRP
+      position: {x: -0.00002332983, y: 0.000082085, z: -0.0005681166}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Mesh_cap
+      parentName: dokandarAnim:Mesh_GRP
+      position: {x: -0.00002332983, y: -0.023079466, z: 0.023060132}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Mesh_default1
+      parentName: dokandarAnim:Mesh_GRP
+      position: {x: -0.00002332983, y: 0.000082085, z: -0.0005681166}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Mesh_head.001
+      parentName: dokandarAnim:Mesh_GRP
+      position: {x: -0.00002332983, y: 0.000082085, z: -0.0005681166}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Mesh_head
+      parentName: dokandarAnim:Mesh_GRP
+      position: {x: -0.00002332983, y: 0.000082085, z: -0.0005681166}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: dokandarAnim:Mesh_slipper L.002
+      parentName: dokandarAnim:Mesh_GRP
+      position: {x: -0.00002332983, y: 0.000039259685, z: -0.0005252913}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.0011999999
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

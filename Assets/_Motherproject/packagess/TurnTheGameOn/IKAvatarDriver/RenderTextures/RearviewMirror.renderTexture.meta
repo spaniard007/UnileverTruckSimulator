@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 52f150619af64ed2a860cc1f93f6e8fc
+timeCreated: 1486862525
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225963
+  packageName: IK Avatar Driver (2019.x and higher)
+  packageVersion: 1.1.0
+  assetPath: Assets/TurnTheGameOn/IKAvatarDriver/RenderTextures/RearviewMirror.renderTexture
+  uploadId: 509807

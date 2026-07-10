@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 206d32ab70de40a1a8cdaf3a32ccd0f8
+timeCreated: 1485740735
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225963
+  packageName: IK Avatar Driver (2019.x and higher)
+  packageVersion: 1.1.0
+  assetPath: Assets/TurnTheGameOn/IKAvatarDriver/Models/Environment/Mesh/RockyCircuit_Road.asset
+  uploadId: 509807

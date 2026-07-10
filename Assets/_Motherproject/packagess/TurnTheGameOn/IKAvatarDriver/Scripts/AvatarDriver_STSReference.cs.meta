@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 27e2db04cd1fde14e8bc20ebfdf2be6b
+timeCreated: 1528178871
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225963
+  packageName: IK Avatar Driver (2019.x and higher)
+  packageVersion: 1.1.0
+  assetPath: Assets/TurnTheGameOn/IKAvatarDriver/Scripts/AvatarDriver_STSReference.cs
+  uploadId: 509807
