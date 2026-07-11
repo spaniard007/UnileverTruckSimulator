@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bdd8fb9bb5b025d40bc815b4b3688b6b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 364538
+  packageName: Rigged Construction Truck Vehicle
+  packageVersion: 1.0
+  assetPath: Assets/ConstructionTruck/HDRP/Prefabs/ConstructionTruck_HDRP.prefab
+  uploadId: 870848

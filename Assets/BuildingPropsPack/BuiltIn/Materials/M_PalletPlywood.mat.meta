@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0927e7947a7c6b249a90b0373bedfbbb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295106
+  packageName: Industrial Building Materials Pack
+  packageVersion: 1.0
+  assetPath: Assets/BuildingPropsPack/BuiltIn/Materials/M_PalletPlywood.mat
+  uploadId: 689305

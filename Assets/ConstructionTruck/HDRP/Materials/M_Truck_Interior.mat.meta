@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ee5f69c87763a94da34b73e4c698f79
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 364538
+  packageName: Rigged Construction Truck Vehicle
+  packageVersion: 1.0
+  assetPath: Assets/ConstructionTruck/HDRP/Materials/M_Truck_Interior.mat
+  uploadId: 870848

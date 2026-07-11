@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1be2d3f66e61f0c4586b8b6fb733b837
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 295106
+  packageName: Industrial Building Materials Pack
+  packageVersion: 1.0
+  assetPath: Assets/BuildingPropsPack/URP/Materials/M_PalletBricks.mat
+  uploadId: 689305

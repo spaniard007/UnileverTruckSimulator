@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2db3b1ceaf3d6d547a3f95af93441bfe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 291350
+  packageName: Industrial Fabric Pack
+  packageVersion: 1.0
+  assetPath: Assets/FabricPack/URP/Materials/M_FabricPack05.mat
+  uploadId: 683105

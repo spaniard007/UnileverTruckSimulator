@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 612cd8b859ae22c44b25d0f3caa68790
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 364538
+  packageName: Rigged Construction Truck Vehicle
+  packageVersion: 1.0
+  assetPath: Assets/ConstructionTruck/BuiltIn/Prefabs/ConstructionTruckNoDump_BuiltIn.prefab
+  uploadId: 870848

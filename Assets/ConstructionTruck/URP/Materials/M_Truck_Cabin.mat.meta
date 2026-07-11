@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 44a9331c695120946a86cbb024600018
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 364538
+  packageName: Rigged Construction Truck Vehicle
+  packageVersion: 1.0
+  assetPath: Assets/ConstructionTruck/URP/Materials/M_Truck_Cabin.mat
+  uploadId: 870848

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b7c5f5e9e811d334da6fa8f65003abd6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 364538
+  packageName: Rigged Construction Truck Vehicle
+  packageVersion: 1.0
+  assetPath: Assets/ConstructionTruck/URP/Materials/M_Truck_Chassis.mat
+  uploadId: 870848

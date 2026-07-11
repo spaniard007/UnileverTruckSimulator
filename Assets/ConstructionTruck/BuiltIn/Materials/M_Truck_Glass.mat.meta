@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c911b8e5986ce1c42a4bd38298d6fa82
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 364538
+  packageName: Rigged Construction Truck Vehicle
+  packageVersion: 1.0
+  assetPath: Assets/ConstructionTruck/BuiltIn/Materials/M_Truck_Glass.mat
+  uploadId: 870848
