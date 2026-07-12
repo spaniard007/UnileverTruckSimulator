@@ -124,7 +124,7 @@ namespace BLI.CMP
 
             Text speedLabel = CreateText(panelGO, "SpeedLabel",
                 new Vector2(-46f, -120f), new Vector2(80f, 24f),
-                "SPEED", 12, TextAnchor.MiddleRight, new Color(0.65f, 0.65f, 0.65f));
+                "", 12, TextAnchor.MiddleRight, new Color(0.65f, 0.65f, 0.65f));
             speedLabel.fontStyle = FontStyle.Bold;
 
             _speedValue = CreateText(panelGO, "SpeedValue",
